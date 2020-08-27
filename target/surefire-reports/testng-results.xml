@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14687" started-at="2020-08-27T07:47:04Z" finished-at="2020-08-27T07:47:19Z">
+  <suite name="Suite" duration-ms="51100" started-at="2020-08-27T10:11:21Z" finished-at="2020-08-27T10:12:12Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14687" started-at="2020-08-27T07:47:04Z" finished-at="2020-08-27T07:47:19Z">
+    <test name="Test" duration-ms="51100" started-at="2020-08-27T10:11:21Z" finished-at="2020-08-27T10:12:12Z">
       <class name="com.Project.Main.LoginPage">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="beforeClass" is-config="true" duration-ms="5986" started-at="2020-08-27T13:17:04Z" finished-at="2020-08-27T13:17:10Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="beforeClass" is-config="true" duration-ms="14175" started-at="2020-08-27T15:41:21Z" finished-at="2020-08-27T15:41:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="browser" is-config="true" duration-ms="2739" started-at="2020-08-27T13:17:10Z" finished-at="2020-08-27T13:17:13Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="browser" is-config="true" duration-ms="10284" started-at="2020-08-27T15:41:35Z" finished-at="2020-08-27T15:41:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="login" duration-ms="1111" started-at="2020-08-27T13:17:13Z" finished-at="2020-08-27T13:17:14Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="login" duration-ms="4508" started-at="2020-08-27T15:41:45Z" finished-at="2020-08-27T15:41:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="browser" is-config="true" duration-ms="489" started-at="2020-08-27T13:17:14Z" finished-at="2020-08-27T13:17:14Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="browser" is-config="true" duration-ms="3153" started-at="2020-08-27T15:41:50Z" finished-at="2020-08-27T15:41:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="signup(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="signup" duration-ms="999" started-at="2020-08-27T13:17:14Z" data-provider="data" finished-at="2020-08-27T13:17:15Z">
+        <test-method status="PASS" signature="signup(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="signup" duration-ms="905" started-at="2020-08-27T15:41:53Z" data-provider="data" finished-at="2020-08-27T15:41:54Z">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
-        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="browser" is-config="true" duration-ms="263" started-at="2020-08-27T13:17:15Z" finished-at="2020-08-27T13:17:16Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="browser" is-config="true" duration-ms="493" started-at="2020-08-27T15:41:54Z" finished-at="2020-08-27T15:41:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="signup(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="signup" duration-ms="954" started-at="2020-08-27T13:17:16Z" data-provider="data" finished-at="2020-08-27T13:17:17Z">
+        <test-method status="PASS" signature="signup(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="signup" duration-ms="532" started-at="2020-08-27T15:41:54Z" data-provider="data" finished-at="2020-08-27T15:41:55Z">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
-        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="browser" is-config="true" duration-ms="280" started-at="2020-08-27T13:17:17Z" finished-at="2020-08-27T13:17:17Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="browser" is-config="true" duration-ms="102" started-at="2020-08-27T15:41:55Z" finished-at="2020-08-27T15:41:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="signup(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="signup" duration-ms="928" started-at="2020-08-27T13:17:17Z" data-provider="data" finished-at="2020-08-27T13:17:18Z">
+        <test-method status="PASS" signature="signup(java.lang.String, java.lang.String)[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="signup" duration-ms="511" started-at="2020-08-27T15:41:55Z" data-provider="data" finished-at="2020-08-27T15:41:55Z">
           <params>
             <param index="0">
               <value>
@@ -79,7 +79,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Project.Main.LoginPage@6b143ee9]" name="afterClass" is-config="true" duration-ms="883" started-at="2020-08-27T13:17:18Z" finished-at="2020-08-27T13:17:19Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Project.Main.LoginPage@6df97b55]" name="afterClass" is-config="true" duration-ms="16409" started-at="2020-08-27T15:41:55Z" finished-at="2020-08-27T15:42:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
